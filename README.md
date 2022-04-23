@@ -1,3 +1,7 @@
+# Klarification
+
+Source Code keuangan ini didapatkan dari [YT: SCG Coding](https://youtu.be/4nsIkirB70k). Sedikit saya edit yang berhubungan dengan tampilan, dikit doang.
+
 # Sistem-informasi-keuangan
 
 ## Demo Beranda :
@@ -14,5 +18,3 @@
 
 Sistem informasi keuangan
 SIMKEU
-
-
